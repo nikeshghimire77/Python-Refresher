@@ -1,2 +1,2 @@
 # Python-Refresher
-Quick python refresher
+Everything one should know about Python. Boom!!
